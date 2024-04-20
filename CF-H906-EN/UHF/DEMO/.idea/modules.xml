@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DEMO.iml" filepath="$PROJECT_DIR$/DEMO.iml" group="DEMO" />
+      <module fileurl="file://$PROJECT_DIR$/RRU9151_4G(sq53q-53C) V1.8 - tm600.iml" filepath="$PROJECT_DIR$/RRU9151_4G(sq53q-53C) V1.8 - tm600.iml" group="RRU9151_4G(sq53q-53C) V1.8 - tm600" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="DEMO/app" />
+      <module fileurl="file://$PROJECT_DIR$/sq53q-53C V2.5 - Code.iml" filepath="$PROJECT_DIR$/sq53q-53C V2.5 - Code.iml" group="sq53q-53C V2.5 - Code" />
+    </modules>
+  </component>
+</project>

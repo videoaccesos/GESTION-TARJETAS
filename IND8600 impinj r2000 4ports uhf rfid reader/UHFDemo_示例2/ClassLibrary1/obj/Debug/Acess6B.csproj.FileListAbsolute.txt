@@ -1,0 +1,7 @@
+E:\UHFDemo_示例2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\UHFDemo_示例2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\UHFDemo_示例2\ClassLibrary1\bin\Debug\Reader.dll
+E:\UHFDemo_示例2\ClassLibrary1\bin\Debug\Reader.pdb
+E:\UHFDemo_示例2\ClassLibrary1\obj\Debug\ResolveAssemblyReference.cache
+E:\UHFDemo_示例2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\UHFDemo_示例2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
