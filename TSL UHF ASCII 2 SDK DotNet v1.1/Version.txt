@@ -1,0 +1,26 @@
+Version 0.9	6th September 2013
+-----------
+- First release of API
+- ASCII Protocol 2.0
+- Incomplete command support
+- Inventory sample only
+- TechnologySolutions.Rfid.AsciiProtocol.FX35.dll v0.9.0.0
+
+Version 1.0.0	9th December 2013
+-----------
+- ASCII Protocol 2.1
+- Full command support
+- Added Read Write, Switch and command samples
+- TechnologySolutions.Rfid.AsciiProtocol.FX35.dll v1.0.0.0
+
+Version 1.0.1	13th December 2013
+-----------
+- BUG FIX: Increase write data limit from 8 words to 32 words to reflect what is supported in hardware
+
+v1.1	13th October 2014
+--------------
+- Refactor WriteCommandToAutorunCommand to customise parameter format rather than override CommandLine()
+- Update to match ASCII Protocol v2.2 (from v 2.1)
+- Added LicenceKeyCommand
+- Added repeat delay for single and double press to switch action command
+- Added BluetoothAddress property to Version command
